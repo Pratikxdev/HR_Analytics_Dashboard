@@ -8,7 +8,7 @@ The dashboard is designed to convert HR data into clear, interactive visual insi
 
 ## 📸 Dashboard Preview
 
-![HR Analytics Dashboard](images/HR_Analytics_Dashboard_Image.png)
+![HR Analytics Dashboard](HR_Analytics_Dashboard_Image.png)
 
 ---
 
